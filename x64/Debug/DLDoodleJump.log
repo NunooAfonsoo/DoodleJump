@@ -1,0 +1,41 @@
+﻿  Bullet.cpp
+  Character.cpp
+E:\C++\DL\TestTask\DLDoodleJump\Character.h(43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Coin.cpp
+  Collidable.cpp
+  CollisionDirection.cpp
+  Enemy.cpp
+E:\C++\DL\TestTask\DLDoodleJump\Character.h(43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  EnemyPlatform.cpp
+E:\C++\DL\TestTask\DLDoodleJump\Character.h(43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  game.cpp
+E:\C++\DL\TestTask\DLDoodleJump\Character.h(43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(615,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(628,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(656,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(664,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(684,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(741,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(743,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(743,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+E:\C++\DL\TestTask\DLDoodleJump\Character.h(43): warning C4305: 'initializing': truncation from 'double' to 'const float'
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(615,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(628,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(656,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(664,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(684,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(741,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(743,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\game.cpp(743,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Moveable.h
+  MoveablePlatform.cpp
+  MoveDirection.cpp
+  Object.cpp
+E:\C++\DL\TestTask\DLDoodleJump\Object.cpp(52,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\C++\DL\TestTask\DLDoodleJump\Object.cpp(52,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Platform.cpp
+  Vector2.cpp
+  Generating Code...
+E:\C++\DL\TestTask\DLDoodleJump\Character.cpp(137): warning C4715: 'Character::getCollisionDirection': not all control paths return a value
+  DLDoodleJump.vcxproj -> E:\C++\DL\TestTask\DLDoodleJump\x64\Debug\DLDoodleJump.exe
